@@ -14,13 +14,14 @@ The primary objective of this project is to develop an automated complaint class
 
 Since the complaint data provided by the company is unlabelled, we will first use Topic Modelling, specifically Non-Negative Matrix Factorization (NMF), to uncover hidden themes and patterns within the customer complaint tickets. By analyzing frequently occurring words and phrases, NMF will help us identify distinct topics that correspond to different business categories.
 
-Based on the identified topics, complaints will be mapped to the following business categories:
+##  business categories:
+Based on the identified topics, complaints will be mapped to the following
 
--[Credit Card / Prepaid Card]
--[Bank Account Services]
--[Theft / Dispute Reporting]
--[Mortgages / Loans]
--[Others]
+- [Credit Card / Prepaid Card]
+- [Bank Account Services]
+- [Theft / Dispute Reporting]
+- [Mortgages / Loans]
+- [Others]
 
 ## Solution
 
